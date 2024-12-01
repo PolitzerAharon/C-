@@ -15,7 +15,19 @@ A sophisticated numerical integration system featuring:
 
 → [View Project](./Adaptive%20Simpson%20Integration/)
 
-### 2. Curve-Based Grid Generation System
+### 2. Spatial Search with Quadtrees
+![Quadtree Visualization](./Spatial%20Search%20with%20Quadtrees/results/Districts_QuadTree_BC100.png)
+
+A high-performance spatial indexing implementation featuring:
+- Template-based geometry for flexible point/region types
+- Resource management using modern C++ principles
+- Extensive performance benchmarking against brute-force approaches
+- Visualization capabilities for structure analysis
+
+→ [View Project](./Spatial%20Search%20with%20Quadtrees/)
+
+### 3. Curve-Based Grid Generation System
+![Grid Generation](./Curve-Based%20Grid%20Generation%20System/Results/Figure_3_Grid_generation_with_50_points.jpg)
 ![Grid Generation](./Curve-Based%20Grid%20Generation%20System/Results/Figure_1_Performance_comparison_log_log.jpg)
 
 An advanced structured grid generator demonstrating:
@@ -26,13 +38,3 @@ An advanced structured grid generator demonstrating:
 
 → [View Project](./Curve-Based%20Grid%20Generation%20System/)
 
-### 3. Spatial Search with Quadtrees
-![Quadtree Visualization](./Spatial%20Search%20with%20Quadtrees/results/Districts_QuadTree_BC100.png)
-
-A high-performance spatial indexing implementation featuring:
-- Template-based geometry for flexible point/region types
-- Resource management using modern C++ principles
-- Extensive performance benchmarking against brute-force approaches
-- Visualization capabilities for structure analysis
-
-→ [View Project](./Spatial%20Search%20with%20Quadtrees/)
