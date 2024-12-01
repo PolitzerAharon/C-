@@ -32,7 +32,7 @@ A high-performance spatial indexing implementation featuring:
 ![Grid Generation](./Curve-Based%20Grid%20Generation%20System/Results/Figure_3_Grid_generation_with_50_points.jpg)
 
 An advanced structured grid generator demonstrating:
-- Up to 93x performance improvement through sophisticated caching
+- Up to 93x performance improvement through caching
 - Object-oriented design with abstract types and inheritance
 - Integration with Boost for numerical methods
 - Robust arc-length parameterization using Newton-Raphson method
