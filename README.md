@@ -27,8 +27,9 @@ A high-performance spatial indexing implementation featuring:
 → [View Project](./Spatial%20Search%20with%20Quadtrees/)
 
 ### 3. Curve-Based Grid Generation System
-![Grid Generation](./Curve-Based%20Grid%20Generation%20System/Results/Figure_3_Grid_generation_with_50_points.jpg)
+
 ![Grid Generation](./Curve-Based%20Grid%20Generation%20System/Results/Figure_1_Performance_comparison_log_log.jpg)
+![Grid Generation](./Curve-Based%20Grid%20Generation%20System/Results/Figure_3_Grid_generation_with_50_points.jpg)
 
 An advanced structured grid generator demonstrating:
 - Up to 93x performance improvement through sophisticated caching
