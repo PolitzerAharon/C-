@@ -59,19 +59,19 @@ Error is estimated by comparing two levels of approximation:
 ### Compiling the Main Program
 
 ```bash
-g++ -o computename compute.cpp
+g++ -o compute quadrature.cpp
 ```
 
 ### Running the Program
 
 ```bash
-./computename
+./compute
 ```
 
 ### Compiling and Running Tests
 
 ```bash
-g++ -o testname tests.cpp
+g++ -o testname unitTests.cpp
 ./testname
 ```
 
