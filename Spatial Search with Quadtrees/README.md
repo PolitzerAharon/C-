@@ -1,10 +1,9 @@
 # Spatial Search with Quadtrees
 
 An implementation of a spatial search algorithm using Quadtrees in C++ with resource ownership management and performance optimization.
-
+![Districts_QuadTree_BC1000](./results/Districts_QuadTree_BC1000.png)
+![Districts_QuadTree_BC100](./results/Districts_QuadTree_BC100.png)
 ![Districts_QuadTree_BC10](./results/Districts_QuadTree_BC10.png)
-
-
 
 ## Overview
 
